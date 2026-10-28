@@ -1,7 +1,7 @@
 # Pagerduty Slack Sync
 Syncs one or more PagerDuty on-call schedules to a Slack channel topic using a Convex backend.  
 
-<img width="514" alt="image" src="https://github.com/get-convex/pagerduty-slack-sync/assets/3837919/4e66f744-9fd2-405e-8e84-27cdee8c7b37">
+<img width="514" alt="image" src="https://github.com/convex/pagerduty-slack-sync/assets/3837919/4e66f744-9fd2-405e-8e84-27cdee8c7b37">
 
 
 ## Initial Setup
@@ -75,7 +75,7 @@ built-in database that lets you write your
 [Rust](https://docs.convex.dev/client/rust),
 [ReactNative](https://docs.convex.dev/client/react-native), and
 [Node](https://docs.convex.dev/client/javascript) clients, as well as a straightforward
-[HTTP API](https://github.com/get-convex/convex-js/blob/main/src/browser/http_client.ts#L40).
+[HTTP API](https://github.com/convex/convex-js/blob/main/src/browser/http_client.ts#L40).
 
 The database supports
 [NoSQL-style documents](https://docs.convex.dev/database/document-storage) with
